@@ -6,5 +6,6 @@ public class TestGit {
 		System.out.println("hh");
 		System.out.println("dddd");
 		System.out.println("doubifuzhonglei");
+		System.out.println("测试冲突");
 	}
 }
