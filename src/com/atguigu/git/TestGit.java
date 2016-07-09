@@ -7,5 +7,7 @@ public class TestGit {
 		System.out.println("dddd");
 		System.out.println("doubifuzhonglei");
 		System.out.println("测试冲突");
+		System.out.println("我来搞个冲突测试");
+
 	}
 }
